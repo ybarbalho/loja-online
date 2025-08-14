@@ -3,7 +3,7 @@
 ## Índice
 
 - [Visão Geral](#visao-geral)
-- [Recursos Trabalhados](#recursos-trabalhados)
+- [Recursos](#recursos)
 
 ---
 
@@ -27,8 +27,8 @@ O resultado do projeto foi a entrega de **recomendações embasadas, precisas e 
 
 ---
 
-<a id='recursos-trabalhados'></a>
-## Recursos Trabalhados
+<a id='recursos'></a>
+## Recursos
 
 - Estatística;
 - Modelagem estatística;
