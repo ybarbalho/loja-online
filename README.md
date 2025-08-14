@@ -1,6 +1,12 @@
 # Teste A/B de uma loja online 🧪
 
-## Descrição
+## Índice
+
+- [Visão Geral](#visao-geral)
+- [Recursos](#recursos)
+
+## Visão Geral
+<a id='visao-geral'></a>
 
 ### Case de Análise: Teste A/B em loja online
 
@@ -17,7 +23,10 @@ A condução do projeto foi realizada em **Python**, com o uso de bibliotecas es
 
 O resultado do projeto foi a entrega de **recomendações embasadas, precisas e acionáveis**, permitindo que a equipe de produto tomasse decisões informadas sobre a continuidade das mudanças implementadas no sistema, reduzindo riscos e maximizando o impacto positivo no negócio.
 
+---
+
 ## Recursos
+<a id='recursos'></a>
 
 - Estatística
 - Modelagem estatística
