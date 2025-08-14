@@ -3,10 +3,12 @@
 ## Índice
 
 - [Visão Geral](#visao-geral)
-- [Recursos](#recursos)
+- [Recursos Trabalhados](#recursos-trabalhados)
 
-## Visão Geral
+---
+
 <a id='visao-geral'></a>
+## Visão Geral
 
 ### Case de Análise: Teste A/B em loja online
 
@@ -25,12 +27,12 @@ O resultado do projeto foi a entrega de **recomendações embasadas, precisas e 
 
 ---
 
-## Recursos
-<a id='recursos'></a>
+<a id='recursos-trabalhados'></a>
+## Recursos Trabalhados
 
-- Estatística
-- Modelagem estatística
-- Análise de dados
-- Habilidades analíticas
-- Análise de dados estatísticos
-- Análise exploratória de dados
+- Estatística;
+- Modelagem estatística;
+- Análise de dados;
+- Habilidades analíticas;
+- Análise de dados estatísticos;
+- Análise exploratória de dados.
