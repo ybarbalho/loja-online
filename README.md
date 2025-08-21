@@ -1,14 +1,14 @@
 # Teste A/B de uma loja online 🧪
 
-## Índice
+## 📑 Índice
 
-- [Visão Geral](#visao-geral)
-- [Recursos](#recursos)
+- 🔭 [Visão Geral](#visao-geral)
+- 🔧 [Recursos](#recursos)
 
 ---
 
 <a id='visao-geral'></a>
-## Visão Geral
+## 🔭 Visão Geral
 
 ### Case de Análise: Teste A/B em loja online
 
@@ -28,7 +28,7 @@ O resultado do projeto foi a entrega de **recomendações embasadas, precisas e 
 ---
 
 <a id='recursos'></a>
-## Recursos
+## 🔧 Recursos
 
 - Estatística;
 - Modelagem estatística;
